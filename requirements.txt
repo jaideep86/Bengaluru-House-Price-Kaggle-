@@ -62,12 +62,5 @@ six==1.15.0
 sklearn==0.0
 terminado==0.8.3
 testpath==0.4.4
-threadpoolctl==2.1.0
-traitlets==5.0.4
-wcwidth==0.2.5
-webencodings==0.5.1
-Werkzeug==1.0.1
-widgetsnbextension==3.5.1
-wincertstore==0.2
 xgboost==1.2.0
 zipp==3.1.0
